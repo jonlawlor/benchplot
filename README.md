@@ -11,4 +11,4 @@ Go Benchmark Performance Plotting and Curve Fitting via Least Squares
 
 Currently in a very preliminary state.  Use it like `./benchplot *.txt`
 
-![Example benchplot][examples/benchplot_example.png]
+![Example benchplot](examples/benchplot_example.png)
